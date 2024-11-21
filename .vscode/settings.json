@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "AC712.C": "cpp",
+        "MQ_2.C": "cpp",
+        "Rain_Drop_Sensor.C": "cpp",
+        "UART.C": "cpp",
+        "Hall_Effect_Sensor.C": "cpp",
+        "Ultrasonic_Sensor.C": "cpp",
+        "PIC16f887A.C": "cpp"
+    }
+}
